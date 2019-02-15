@@ -1,0 +1,2 @@
+[21-Mar-2010 01:27:55] PHP Fatal error:  Call to undefined function add_shortcode() in /home/thebizof/public_html/stage/wp-content/themes/thebusinessof/includes/agenda-widget.php on line 3
+[22-Mar-2010 03:28:13] PHP Fatal error:  Call to undefined function register_widget() in /home/thebizof/public_html/stage/wp-content/themes/thebusinessof/includes/sponsor-widget.php on line 3
